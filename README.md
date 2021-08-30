@@ -3,7 +3,7 @@
 
 #### Hi, I'm Rishika! 😃
 ##### I'm a student majoring in computer science. I'm currently exploring Natural Language Processing. 😁
-##### I'm still learning everyday (especially when it comes to this platform), so kindly bear with me! ☀
+I'm still learning everyday (especially when it comes to this platform), so kindly bear with me! ☀
 
 
 
