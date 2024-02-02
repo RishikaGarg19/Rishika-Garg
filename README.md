@@ -17,4 +17,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishikaGarg19)
 
-[//]: ![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishikaGarg19&show_icons=true&theme=dracula)
+[comment]: <> ![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishikaGarg19&show_icons=true&theme=dracula)
