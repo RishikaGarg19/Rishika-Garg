@@ -2,19 +2,19 @@
 # About Me
 
 #### Hi, I'm Rishika! 😃
-###### I'm a student majoring in computer science. I'm currently exploring Natural Language Processing.
-###### I'm still learning everyday (especially when it comes to this platform), so kindly bear with me! 
-
+###### I'm a master's student majoring in Computer Science at the University of California, Davis. 
+###### I'm currently educating myself about Large Language Models.
 
 
 ## Connect with me
 
 - [GitHub](https://github.com/RishikaGarg19)
 - [LinkedIn](https://www.linkedin.com/in/rishika-garg-702a79192/)
-- [E-Mail](mailto:rishikagarg.csn@gmail.com)
+- [E-Mail](mailto:risgarg.csn@ucdavis.edu)
 
-
+## Check out some of my research: 
+- [Google Scholar](https://scholar.google.com/citations?user=DaZ46hAAAAAJ&hl=en&oi=ao)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishikaGarg19)
 
-[comment]: <> ![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishikaGarg19&show_icons=true&theme=dracula)
+![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishikaGarg19&show_icons=true&theme=dracula)
